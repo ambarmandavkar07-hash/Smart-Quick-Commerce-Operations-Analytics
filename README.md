@@ -1,13 +1,3 @@
-Straight talk — you don’t need a fancy README. You need a clean, recruiter-level GitHub README that explains:
-
-• what the project solves
-• what dashboards show
-• where images go
-• how it creates business impact
-
-Copy this full README and paste into GitHub 👇
-
-
 ---
 
 🚀 Smart Quick-Commerce Operations Analytics Dashboard
