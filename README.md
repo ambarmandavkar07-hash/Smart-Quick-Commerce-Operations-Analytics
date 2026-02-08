@@ -41,7 +41,7 @@ Goal: Make 10-minute delivery safer, smarter, and more profitable.
 (Insights on ratings, feedback, city-wise reach, customer volume)
 
 
-![Customer Dashboard](images/customer_dashboard.png)
+<img width="1421" height="797" alt="Screenshot 2026-02-04 223151" src="https://github.com/user-attachments/assets/2c760c91-8529-4f05-bdc3-859471655288" />
 
 
 ---
@@ -51,7 +51,7 @@ Goal: Make 10-minute delivery safer, smarter, and more profitable.
 (Delay rate, SLA compliance, delivery speed vs reliability)
 
 
-![Delivery Dashboard](images/delivery_dashboard.png)
+<img width="1417" height="797" alt="Screenshot 2026-02-04 223425" src="https://github.com/user-attachments/assets/f6c9ee2e-dcda-432f-95f9-360d8fe142b0" />
 
 
 ---
@@ -61,7 +61,7 @@ Goal: Make 10-minute delivery safer, smarter, and more profitable.
 (Rider efficiency, age groups, ratings, workload balance)
 
 
-![Agent Dashboard](images/agent_dashboard.png)
+<img width="1423" height="796" alt="Screenshot 2026-02-04 223046" src="https://github.com/user-attachments/assets/d6214fa3-c67b-4cac-8df0-4a26d396dcb2" />
 
 
 ---
@@ -72,7 +72,7 @@ Goal: Make 10-minute delivery safer, smarter, and more profitable.
 
 
 
-![Inventory Dashboard](images/inventory_dashboard.png)
+<img width="1418" height="796" alt="Screenshot 2026-02-04 223353" src="https://github.com/user-attachments/assets/7f041742-e07b-4030-8b93-17943080cc9f" />
 
 
 ---
@@ -82,7 +82,7 @@ Goal: Make 10-minute delivery safer, smarter, and more profitable.
 (Revenue at risk, delay severity, time distribution)
 
 
-![Risk Dashboard](images/risk_dashboard.png)
+<img width="1417" height="796" alt="Screenshot 2026-02-04 223504" src="https://github.com/user-attachments/assets/08de4317-2174-4a2f-b196-b3a5981f36d9" />
 
 
 ---
@@ -104,7 +104,7 @@ Customers & Feedback
 
 👉 Add relationship image here:
 
-![Data Model](images/data_model.png)
+<img width="1162" height="702" alt="Screenshot 2026-02-05 163241" src="https://github.com/user-attachments/assets/bb964963-8f32-4205-87be-f93ebb69b8e7" />
 
 
 ---
