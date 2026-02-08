@@ -51,7 +51,7 @@ Goal: Make 10-minute delivery safer, smarter, and more profitable.
 (Delay rate, SLA compliance, delivery speed vs reliability)
 
 
-<img width="1417" height="797" alt="Screenshot 2026-02-04 223425" src="https://github.com/user-attachments/assets/f6c9ee2e-dcda-432f-95f9-360d8fe142b0" />
+<img width="1417" height="796" alt="Screenshot 2026-02-04 223504" src="https://github.com/user-attachments/assets/08de4317-2174-4a2f-b196-b3a5981f36d9" />
 
 
 ---
@@ -81,8 +81,8 @@ Goal: Make 10-minute delivery safer, smarter, and more profitable.
 
 (Revenue at risk, delay severity, time distribution)
 
+<img width="1417" height="797" alt="Screenshot 2026-02-04 223425" src="https://github.com/user-attachments/assets/f6c9ee2e-dcda-432f-95f9-360d8fe142b0" />
 
-<img width="1417" height="796" alt="Screenshot 2026-02-04 223504" src="https://github.com/user-attachments/assets/08de4317-2174-4a2f-b196-b3a5981f36d9" />
 
 
 ---
